@@ -22,7 +22,7 @@
 
 ## 🌍 Why This Project?
 
-Clean water is one of the most basic needs on the planet, yet testing it usually needs expensive lab equipment. **AquaSpectra** is a low-cost, open approach: a webcam captures the light spectrum passing through (or emitted by) a water sample, the software calibrates it to real wavelengths, and the spectral fingerprint is stored so that **machine learning** can learn to recognise the signatures of common impurities such as:
+Clean water is one of the most basic needs on the planet, yet testing it usually needs expensive lab equipment. **LumenS** is a low-cost, open approach: a webcam captures the light spectrum passing through (or emitted by) a water sample, the software calibrates it to real wavelengths, and the spectral fingerprint is stored so that **machine learning** can learn to recognise the signatures of common impurities such as:
 
 | 🧪 Impurity family | 💧 Examples | 🌿 Why it matters |
 |---|---|---|
