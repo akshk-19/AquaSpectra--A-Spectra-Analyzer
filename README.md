@@ -231,7 +231,8 @@ Ideas, spectra datasets and pull requests are very welcome! 🌿 Fork the repo, 
 ## 👩‍💻 Author
 
 **Akshita Kushwaha**
-🔗 [GitHub](https://github.com/akshk-19) · [LinkedIn](https://linkedin.com/in/akshita-kushwaha-swe2006)
+**Aditi Rohan**
+**Anindhya Gaur**
 
 ---
 
