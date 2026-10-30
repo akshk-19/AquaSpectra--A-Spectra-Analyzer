@@ -1,4 +1,4 @@
-# LumenS--A-Spectra-Analyzer 🌊🔬
+# AquaSpectra--A-Spectra-Analyzer 🌊🔬
 <div align="center">
 
 ### A DIY, camera-based spectrometer for screening impurities in water 💧
